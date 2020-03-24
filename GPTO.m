@@ -32,9 +32,10 @@
 % To fulfill part a) above, we kindly ask that you please cite the paper
 % that introduces this code:
 %
-% Smith, H. and Norato, J.A. "A Matlab code for the topology optimization
-% of structures made of bars using the geometry projection method."
-% Structural and Multidisciplinary Optimization, 2018 (in review).
+% Smith, H. and Norato, J.A. "A MATLAB code for topology optimization
+% using the geometry projection method."
+% Structural and Multidisciplinary Optimization, 2020,
+% https://doi.org/10.1007/s00158-020-02552-0
 %
 % =========================================================================
 
