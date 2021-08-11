@@ -4,7 +4,7 @@
 % 
 % A Matlab code for topology optimization with bars using the geometry
 % projection method.
-% Version 1.0 -- Nov 2019 
+% Version 1.0.1 -- August 2021
 %
 % Hollis Smith and Julian Norato
 % Department of Mechanical Engineering
@@ -36,6 +36,14 @@
 % using the geometry projection method."
 % Structural and Multidisciplinary Optimization, 2020,
 % https://doi.org/10.1007/s00158-020-02552-0
+%
+% New to version 1.0.1:
+% The source code of the GCMMA-MMA-code used in the examples of our paper 
+% has been released by its author Krister Svanberg under the terms of the 
+% GNU General Public License version 3. We have included the source files 
+% required to run GPTO with MMA under GPTO/optimization/MMA. Note that we
+% have replaced two lines of GPTO/optimization/MMA/subsolv.m that improve
+% efficiency.
 %
 % =========================================================================
 
